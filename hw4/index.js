@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'He was driven on, and other carriages came whirling by in quick succession; the Minister, the State-Projector, the Farmer-General, the Doctor, the Lawyer, the Ecclesiastic, the Grand Opera, the Comedy, the whole Fancy Ball in a bright continuous flow, came whirling by.'      
+      'It was the first time it had ever been so complimented, and Madame Defarge knew enough of its antecedents to know better.'      
 };
 
 function status(statusText) {
