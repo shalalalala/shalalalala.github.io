@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'He was driven on, and other carriages came whirling by in quick succession; the Minister, the State-Projector, the Farmer-General, the Doctor, the Lawyer, the Ecclesiastic, the Grand Opera, the Comedy, the whole Fancy Ball in a bright continuous flow, came whirling by.'      
 };
 
 function status(statusText) {
